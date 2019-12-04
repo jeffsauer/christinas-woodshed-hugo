@@ -22,13 +22,13 @@ gallery:
 about:
   enable : true
   image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  title : "Pardon our dust... <span> our </span> new website is under construction!"
+  description : "To better serve our wonderful customers, we are creating a new website containing our yummy menu, restaurant hours, and more!  Watch your toes and stay tuned!"
   
 ################# Blog ######################
 blog:
   enable : true
-  title : "Our Latest <span>Blog</span>"
+  title : "Menu <span>Favorites!</span>"
   bgImage : "images/blog/blog-bg.jpg"
   overlay:
     enable : true
@@ -37,7 +37,7 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Our Easy <span>PRICE</span>"
+  title : "Delicious home cooked meals at affordable <span>prices!</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
   pricingItem:
@@ -66,7 +66,7 @@ subscription:
   enable : true
   bgImage : "images/subscribe-bg.jpg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  description : "Subscribe to receive news about our specials!"
   #Mailchimp subscription configaration 
   formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
   formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
@@ -76,6 +76,6 @@ subscription:
 ################ Contact #######################
 contact:
   enable : true
-  title: "Let's <span> Contact Us </span>"
-  subtitle: "SIGN UP FOR EMAIL ALERTS"
+  title: "Let us know what you <span> think! </span>"
+  subtitle: "SEND US YOUR COMMENTS"
   formAction : "#" #contact form works with formspree.io
