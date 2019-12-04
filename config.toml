@@ -103,9 +103,14 @@ icon = "fa fa-map-marker"
 content = "2232 Hwy 260 Overgaard Arizona 85933"
 
 [[params.footer.contactItem]]
-title="E mail"
+title="Hours"
+icon = "fa fa-clock-o"
+content = "Tuesday - Sunday 6AM - 2PM. Dinner Wednesdays 4PM - 8PM."
+
+[[params.footer.contactItem]]
+title="E-mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "rest@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
