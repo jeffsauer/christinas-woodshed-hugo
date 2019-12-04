@@ -7,7 +7,9 @@
                 <div class="block">
                     <h1 class="heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">{{ .title | markdownify }}</h1>
                     <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">{{ .description | markdownify }}</p>
+                    
                     <div class="pricing-list">
+                        {{ range .subtitleItem }}
                         <div class="title">
                             <h3>{{ .subtitle | markdownify }}</h3>
                         </div>
@@ -25,6 +27,7 @@
                             </li>
                             {{ end }}
                         </ul>
+                        {{end}}
                     </div>
                 </div>
             </div><!-- .col-md-12 close -->
