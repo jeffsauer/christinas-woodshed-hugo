@@ -58,7 +58,7 @@ paginate = 4
   weight = 3
 
   [[menu.main]]
-  name = "Price"
+  name = "Menu"
   URL = "price"
   weight = 4
 
