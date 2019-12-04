@@ -1,4 +1,4 @@
-baseURL = "http://www.christinas-woodshed.com/"
+baseURL = "http://christinas-woodshed.com/"
 languageCode = "en-us"
 title = "Christina's Woodshed"
 theme = "restaurant-hugo"
