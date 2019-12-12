@@ -10,8 +10,8 @@ gallery:
   enable : true
   sliderItem:
     - image : "images/foodpics/country_skillet.jpg"
-    - image : "images/slider/slider-img-2.jpg"
-    - image : "images/slider/slider-img-3.jpg"
+    - image : "images/foodpics/country_omelet.jpg"
+    - image : "images/foodpics/three_cheese_omelet.jpg"
     - image : "images/slider/slider-img-4.jpg"
     - image : "images/slider/slider-img-1.jpg"
     - image : "images/slider/slider-img-2.jpg"
