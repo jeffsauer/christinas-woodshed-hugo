@@ -123,9 +123,6 @@ image = "images/foodpics/three_cheese_omelet.jpg"
 image = "images/foodpics/country_omelet.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
-
-[[params.footer.gallery]]
 image = "images/slider/slider-img-1.jpg"
 
 [[params.footer.gallery]]
