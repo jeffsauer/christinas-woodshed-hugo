@@ -6,10 +6,28 @@
     <description>Recent content on Christina&#39;s Woodshed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2019 08:45:47 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 11:40:41 +0600</lastBuildDate>
     
 	<atom:link href="http://www.christinas-woodshed.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spanish Omelet</title>
+      <link>http://www.christinas-woodshed.com/spanish-omelet/</link>
+      <pubDate>Wed, 22 Jan 2020 11:40:41 +0600</pubDate>
+      
+      <guid>http://www.christinas-woodshed.com/spanish-omelet/</guid>
+      <description>Our delicious Spanish Omelet has a kick! Three eggs, onions, green chili, jalapenos, cheddar cheese, country potatoes, and choice of bread.</description>
+    </item>
+    
+    <item>
+      <title>Club Sandwich</title>
+      <link>http://www.christinas-woodshed.com/club-sandwich/</link>
+      <pubDate>Wed, 22 Jan 2020 04:28:21 +0600</pubDate>
+      
+      <guid>http://www.christinas-woodshed.com/club-sandwich/</guid>
+      <description>Ham, turkey, choice of cheese, bread, and waffle cut fries.</description>
+    </item>
     
     <item>
       <title>Country Sausage Omelet</title>
@@ -36,24 +54,6 @@
       
       <guid>http://www.christinas-woodshed.com/three-cheese-omelet/</guid>
       <description>Our yummy Three Cheese Omelet! Three eggs, choice of cheese, hash browns and choice of bread.</description>
-    </item>
-    
-    <item>
-      <title>Skillet Chicken with Potatoes</title>
-      <link>http://www.christinas-woodshed.com/restaurant/</link>
-      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
-      
-      <guid>http://www.christinas-woodshed.com/restaurant/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>http://www.christinas-woodshed.com/my-first-post/</link>
-      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
-      
-      <guid>http://www.christinas-woodshed.com/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>

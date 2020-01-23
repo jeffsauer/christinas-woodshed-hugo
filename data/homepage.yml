@@ -12,11 +12,8 @@ gallery:
     - image : "images/foodpics/country_skillet.jpg"
     - image : "images/foodpics/country_omelet.jpg"
     - image : "images/foodpics/three_cheese_omelet.jpg"
-    - image : "images/slider/slider-img-4.jpg"
-    - image : "images/slider/slider-img-1.jpg"
-    - image : "images/slider/slider-img-2.jpg"
-    - image : "images/slider/slider-img-3.jpg"
-    - image : "images/slider/slider-img-4.jpg"
+    - image : "images/foodpics/spanish_omelet.jpg"
+    - image : "images/foodpics/club_sandwich.jpg"
 
 ################ About #######################
 about:
@@ -171,6 +168,9 @@ pricing:
       - title: "Mogollon Cheese Steak"
         description: "Sourdough hoagie roll, thinly sliced steak, swiss cheese, caramelized onions and Hatch green chilis."
         price: "$ 13.00"
+      - title: "Club Sandwich"
+        description: "Ham, turkey, on choice of bread, with fires and dipping sauce."
+        price: "$ 12.00"
       - title: "Mountain Man Roast Beef Dip"
         description: "Ciabatta bun, fresh roast beef, caramelized onions, sauteed mushrooms, served with au jus."
         price: "$ 12.00"
