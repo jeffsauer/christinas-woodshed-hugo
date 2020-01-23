@@ -5,4 +5,4 @@ image: images/foodpics/club_sandwich.jpg
 type: "post"
 ---
 
-Ham, turkey, choice of cheese, bread, and waffle cut fries.
+Triple decker sourdough, smoked ham, turkey, bacon with lettuce, tomato, and mayo.  Choice of cheese and a side.
